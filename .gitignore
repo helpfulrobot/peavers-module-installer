@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+
+# But don't ignore
+!/mysite/
+!web.config
+!robots.txt
+!composer.json
+!composer.lock
+!.htaccess
+!.gitignore
+!.gitattributes
+!.editorconfig
+!.php_cs
