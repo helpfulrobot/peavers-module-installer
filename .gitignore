@@ -12,3 +12,4 @@
 !.gitattributes
 !.editorconfig
 !.php_cs
+!*.sspak
