@@ -6,9 +6,7 @@
     "silverstripe/cms": "3.3.x-dev",
     "silverstripe/framework": "3.3.x-dev",
     "silverstripe/siteconfig": "3.3.x-dev",
-    "silverstripe/reports": "3.3.x-dev",
-
-    "moe/full-calendar": "2.2.2@stable"
+    "silverstripe/reports": "3.3.x-dev"
   },
   "config": {
     "process-timeout": 600
