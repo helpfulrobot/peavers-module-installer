@@ -8,6 +8,9 @@
       "email": "peavers@gmail.com"
     }
   ],
+  "require": {
+    "moe/login-screen": "@stable"
+  },
   "type": "silverstripe-module",
   "minimum-stability": "dev"
 }
