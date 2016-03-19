@@ -1,0 +1,13 @@
+{
+  "name": "peavers/module-installer",
+  "description": "Base branch for docker automated installation of modules.",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Chris Turner",
+      "email": "peavers@gmail.com"
+    }
+  ],
+  "type": "silverstripe-module",
+  "minimum-stability": "dev"
+}
